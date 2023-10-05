@@ -1,0 +1,13 @@
+Model Predictions:
+
+1. Linear Regression
+    Mean:  4.4222705205582304
+    Standard Deviation:  0.9975636119114946
+
+2. Decision Tress:
+    Mean:  4.589781565602079
+    Standard Deviation:  0.878645981215545
+
+3. Random Forest Regressor
+    Mean:  3.5190200681541803
+    Standard Deviation:  0.5807338612860427
